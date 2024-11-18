@@ -8,18 +8,37 @@ November 13, 2007
 https://openclipart.org/detail/8299/baseball-bat   
 https://openclipart.org/artist/Gerald_G  
 https://commons.wikimedia.org/wiki/File:Baseball_bat.svg  
+[License - Creative Commons Zero 1.0 Public Domain License]
 
-Video of Bob Juggling and Bouncing Balls  
-Shawn Eary
+Video of "Bob" Juggling and Bouncing Balls  
+Shawn Eary  
+Please don't post a ton of ridiculous deep fakes of me...  
+[License - To Be Determined] 
+
+Bong Wave Sound  
+Shawn Eary  
+[License - Creative Commons Zero 1.0 Public Domain License]
+
+Story Time Minecraft (Free) Version  
+Shawn Eary  
+[License - CC BY-SA]  
+*This liberal license does **not** apply to the original Story Time by Shawn Eary. It only applies to free "Minecraft" version you get on the GitHub Site. The original Story Time is found here  
+https://soundcloud.com/shawn-eary/story-time     
+All rights are still reserved for the original Story Time song.*
+
+Grace Background Picture with Bicycle and Rainbow
+Shawn Eary  
+[License - FCML - https://www.utilars.com/Home/FCML ]
 
 # References 
 Wikimedia  
 Google Bing
 
 # Software Used
+KDENLive  
+Cubase 13  
 FireFox  
 Microsoft Windows 10  
-KDENLive  
 H264 and Google VP9 Codecs  
 MP4 and Webm video wrappers  
 Git  
