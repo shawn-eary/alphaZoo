@@ -43,3 +43,4 @@ H264 and Google VP9 Codecs
 MP4 and Webm video wrappers  
 Git  
 Microsoft GitHub  
+Microsoft Visual Studio Code  
