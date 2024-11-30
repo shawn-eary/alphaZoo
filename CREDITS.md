@@ -30,6 +30,14 @@ Grace Background Picture with Bicycle and Rainbow
 Shawn Eary  
 [License - FCML - https://www.utilars.com/Home/FCML ]
 
+Blue / White Horse Picture Behind Bob  
+Sarah Hope Eary  
+[Licence - All Rights Reserved by Sarah Hope Eary]  
+
+Cactus Behind Bob  
+Caitlin Faith Eary  
+[Licence - All Rights Reserved by Caitlin Faith Eary]  
+
 # References 
 Wikimedia  
 Google Bing
@@ -45,3 +53,4 @@ Git
 Microsoft GitHub  
 Microsoft Visual Studio Code  
 Gimp
+LibreOffice Writer
