@@ -37,6 +37,10 @@ Cactus Behind Bob
 Caitlin Faith Eary  
 [License - All Rights Reserved by Caitlin Faith Eary]  
 
+Emojikitchen Artwork by Google (for Exploding Brain)
+https://emojipedia.org/emoji-kitchen
+
+
 ## References 
 Wikimedia  
 Google  
@@ -46,6 +50,15 @@ Online Cambridge Dictionary
 https://dictionary.cambridge.org/  
 
 Rathbone, Matthew; OpenAI; et al., "Using Nested Lists and Sub Bullets in Markdown", Dec 22, 2022, Last Visited on Dec 22, 2024 at  https://blog.markdowntools.com/posts/using-nested-lists-and-sub-bullets-in-markdown
+
+Emojipedia (Zedge, Inc)
+https://emojipedia.org/
+
+Salazar, Xavier
+https://xsalazar.com/
+Emoji Kitchen Dev
+https://github.com/xsalazar/emoji-kitchen
+
 
 ## Software Used
 KDENLive  
