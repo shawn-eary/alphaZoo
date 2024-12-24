@@ -40,7 +40,11 @@ Caitlin Faith Eary
 ## References 
 Wikimedia  
 Google  
-Bing  
+Bing 
+
+Online Cambridge Dictionary 
+https://dictionary.cambridge.org/  
+
 Rathbone, Matthew; OpenAI; et al., "Using Nested Lists and Sub Bullets in Markdown", Dec 22, 2022, Last Visited on Dec 22, 2024 at  https://blog.markdowntools.com/posts/using-nested-lists-and-sub-bullets-in-markdown
 
 ## Software Used
