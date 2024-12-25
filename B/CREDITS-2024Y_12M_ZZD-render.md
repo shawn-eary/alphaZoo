@@ -14,7 +14,7 @@ Shawn Eary
 Please don't post a ton of ridiculous deep fakes of me...  
 [License - To Be Determined] 
 
-Bong Wave Sound  
+Bong Wave and Fake Bat Sound  
 Shawn Eary  
 [License - Creative Commons Zero 1.0 Public Domain License]
 
