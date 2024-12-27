@@ -1,5 +1,4 @@
 # Credits
-
 ## Artwork Used
 Baseball Bat  
 Gerald G  
@@ -25,9 +24,13 @@ Shawn Eary
 https://soundcloud.com/shawn-eary/story-time     
 All rights are still reserved for the original Story Time song.*
 
-Grace Background Picture with Bicycle and Rainbow
+Rainbow Scene at Beginning, Boxes, Max the Cartoon Cat, Assorted Videography, KDENLive Animation 
 Shawn Eary  
 [License - FCML - https://www.utilars.com/Home/FCML ]
+
+Beach Ball
+Designed by Unknown for Fayetteville Public Library
+Picture taken by Shawn Eary
 
 Blue / White Horse Picture Behind Bob  
 Sarah Hope Eary  
@@ -63,11 +66,12 @@ https://github.com/xsalazar/emoji-kitchen
 ## Software Used
 KDENLive  
 Cubase 13  
-FireFox  
+FireFox and Microsoft Edge  
 Microsoft Windows 10  
-H264 and Google VP9 Codecs  
+H264, H265 and Google VP9 Codecs  
 MP4 and Webm video wrappers  
 Git  
+
 Microsoft GitHub  
 - Microsoft Visual Studio Code  
   - Code Spell Checker for Visual Studio Code by Street Side Software    
@@ -75,12 +79,22 @@ Microsoft GitHub
 Gimp  
 LibreOffice Writer
 
+Markdown To Image 
+MarkdownToImage™
+(Ending Credits Image)
+https://markdowntoimage.com/contact
+
 ## Dual Use
 The bulk of this project is Open Source and can be found at:  
 https://github.com/shawn-eary/alphaZoo  
-However, there may be times where for the final YouTube rendering that I choose to use propriatary dsdf 
-
+However, there may be times where for the final YouTube rendering that I choose to use proprietary software, assets or tools. Those will not be included in the Open Source Repo 
 
 ## Errata
 It is not my intent to cheat anyone of anything. Sometimes, I may get in a hurry and make mistakes. When I become aware of citation errors, I will make a good Faith attempt to correct known errors in a timely manner. Published corrections will be found at:   
-https://github.com/shawn-eary/alphaZoo/blob/main/B/CREDITS-2024Y_12M_ZZD-render.md
+https://github.com/shawn-eary/alphaZoo/blob/main/B/CREDITS-2024Y_12M_26D-render.md
+
+# Copyright
+This video is Copyright 2024 by Shawn Eary and Utilars™  
+
+You can find the open source version at  
+https://github.com/shawn-eary/alphaZoo
